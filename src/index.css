@@ -1,0 +1,21 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container{
+  margin: 5rem;
+}
+
+.modal-wrapper{
+  border: 2px solid green;
+  position: fixed;
+  left:0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  background-color: rgb(206, 206, 206);
+}
+
